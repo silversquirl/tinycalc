@@ -23,7 +23,7 @@ int main() {
       puts("^");
     }
 
-    free(expr);
+    linenoiseFree(expr);
   }
 
   return 0;
