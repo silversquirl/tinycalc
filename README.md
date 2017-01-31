@@ -15,8 +15,9 @@ expressions.
 
 To build tinycalc, run `make`. This will result in the statically-linked
 binary file named `tinycalc`. This should be able to run from any
-location on any machine with the same architecture, so copy it to
-`~/bin`, `/usr/bin` or any other location in your `PATH`.
+location on any machine with the same Operating System and processor
+architecture, so copy it to `~/bin`, `/usr/bin` or any other location in
+your `PATH`.
 
 [tinyexpr]: https://github.com/codeplea/tinyexpr
 [linenoise]: https://github.com/antirez/linenoise
