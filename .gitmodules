@@ -1,0 +1,6 @@
+[submodule "linenoise"]
+	path = linenoise
+	url = https://github.com/antirez/linenoise
+[submodule "tinyexpr"]
+	path = tinyexpr
+	url = https://github.com/codeplea/tinyexpr
