@@ -1,6 +1,6 @@
 # tinycalc
 
-tinycalc is a calculator. A tiny one. No, really; it's less than 30
+tinycalc is a calculator. A tiny one. No, really; it's less than 20
 lines of code.
 
 tinycalc started as an experiment to play around with
@@ -21,4 +21,3 @@ your `PATH`.
 
 [tinyexpr]: https://github.com/codeplea/tinyexpr
 [linenoise]: https://github.com/antirez/linenoise
-
